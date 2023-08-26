@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GroverChorizo
-- 👀 I’m interested in Solidity/Blockchain, SQL, PHP, JavaScript, PenTesting, Real Estate, Forex
+- 👀 I’m interested in Solidity/Blockchain, Python, JavaScript, PenTesting, and Real Estate Investing.
 - 🌱 I’m currently learning every day.
 - 💞️ I’m looking to collaborate on Bug Bounties and CTF events, be warned I am still green!
 - 📫 How to reach me: Gr0v3rChorizo@proton.me
